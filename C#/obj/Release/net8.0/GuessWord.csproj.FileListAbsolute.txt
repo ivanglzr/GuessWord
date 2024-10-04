@@ -1,0 +1,14 @@
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\bin\Release\net8.0\GuessWord.exe
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\bin\Release\net8.0\GuessWord.deps.json
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\bin\Release\net8.0\GuessWord.runtimeconfig.json
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\bin\Release\net8.0\GuessWord.dll
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\bin\Release\net8.0\GuessWord.pdb
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.AssemblyInfoInputs.cache
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.AssemblyInfo.cs
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.csproj.CoreCompileInputs.cache
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.dll
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\refint\GuessWord.dll
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.pdb
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\GuessWord.genruntimeconfig.cache
+C:\Users\mreye\Documents\Codigo\C#\GuessWord\obj\Release\net8.0\ref\GuessWord.dll
